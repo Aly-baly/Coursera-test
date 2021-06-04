@@ -4,6 +4,7 @@
 	h1 {
 		text-align: center;
 		font-weight: bold;
+		margin-bottom: 30px;
 	}
 	#ch1{
 		background-color: #FFC9E0;
@@ -26,6 +27,7 @@
 		position: relative;
 		margin-top: 20px;
 		margin-right: 20px;
+		margin-left: 20px;
 	}
 	p {
 		position: relative;
